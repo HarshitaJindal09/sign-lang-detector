@@ -20,7 +20,7 @@ A real-time American Sign Language (ASL) detection system that uses a webcam to 
 * 📝 Automatic text generation from recognized signs
 * ⏱️ Sign confirmation after holding a gesture for approximately 1 second
 * 🌐 Browser-based interface
-* ☁️ Deployed on Render using render website
+* ☁️ Deployed on Render 
 
 ---
 
