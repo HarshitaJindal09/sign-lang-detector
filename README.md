@@ -2,7 +2,7 @@
 
 A real-time American Sign Language (ASL) detection system that uses a webcam to recognize hand gestures and convert them into letters and text directly in the browser.
 
-## 🚀 Live Demo
+## 🚀 Live Demo is here 
 
 **Try the deployed application:**
 
