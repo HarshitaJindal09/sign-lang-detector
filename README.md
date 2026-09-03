@@ -15,7 +15,7 @@ A real-time American Sign Language (ASL) detection system that uses a webcam to 
 * 📷 Real-time webcam-based sign language detection
 * 🤟 Recognition of **28 classes** — A–Z, Nothing, and Space
 * 🖐️ Hand landmark detection using MediaPipe
-* 🤖 Random Forest machine learning classifier
+* 🤖 Random Forest machine learning classifier.
 * ⚡ Lightweight landmark-based inference
 * 📝 Automatic text generation from recognized signs
 * ⏱️ Sign confirmation after holding a gesture for approximately 1 second
